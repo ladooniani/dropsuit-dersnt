@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-dersnt",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "DropSuit NLP - dersnt function: DropSuit NLP Method: dersnt - A JavaScript and Node.js function for locating sentences based on input nouns and uncovering derivative nouns.",
   "main": "index.js",
   "scripts": {
