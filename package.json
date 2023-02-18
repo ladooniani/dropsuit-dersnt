@@ -1,0 +1,32 @@
+{
+  "name": "dropsuit-dersnt",
+  "version": "1.0.4",
+  "description": "DropSuit NLP - dersnt function: DropSuit NLP Method: dersnt - A JavaScript and Node.js function for locating sentences based on input nouns and uncovering derivative nouns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladooniani/dropsuit-dersnt.git"
+  },
+  "keywords": [
+    "derivative sentences",
+    "derivative words",
+    "json processing",
+    "array patterns"
+  ],
+  "author": "Lado Oniani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ladooniani/dropsuit-dersnt/issues"
+  },
+  "homepage": "https://github.com/ladooniani/dropsuit-dersnt#readme",
+  "dependencies": {
+    "dropsuit-clnstr": "^1.0.11",
+    "dropsuit-enoun": "^1.0.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
